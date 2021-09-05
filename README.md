@@ -2,6 +2,10 @@
 
 # Problem Statement:
 
+American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals. The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures.
+
+In this notebook, I will train a convolutional neural network(CNN) to classify images of American Sign Language (ASL) letters. After loading, examining, and preprocessing the data, we will train the network and test its performance.
+
 This is an internship project at MedTourEasy wherein I have developed a Convolution Neural Network based Image Classification to predict 3 signs(A,B and C).
 
 # Project Workflow and observations:
